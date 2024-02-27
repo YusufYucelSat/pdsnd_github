@@ -24,3 +24,6 @@ In this project, you will make use of Python to explore data related to bike sha
 * Numpy documentation. (if needed)
 * Python documentation for controlflow.
 * If I have doubts about the errors occured while running the code I used: www.stackoverflow.com
+
+**Created by Yusuf Yucel SAT**
+_If you have any question, don't hesitate to contact via sat.yucel yusuf@gmail.com_
